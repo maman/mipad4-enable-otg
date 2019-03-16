@@ -1,0 +1,7 @@
+id=magisk-mipad4-enable-otg
+name=Mipad 4 Enable OTG
+version=v1.0
+versionCode=1
+author=maman
+description=Enable mi pad 4 OTG systemlessly
+minMagisk=17000
